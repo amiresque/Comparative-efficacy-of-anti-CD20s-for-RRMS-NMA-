@@ -23,9 +23,6 @@ relapsing-remitting multiple sclerosis (RRMS).
 | `NMA_AntiCD20_RRMS.R` | R script for network meta-analysis using netmeta |
 | `MultiDB_Collection_Screening_AntiCD20_RRMS.ipynb` | Multi-database search and screening pipeline |
 | `RuleBased_Screening_AntiCD20_RRMS.ipynb` | Rule-based keyword screening algorithm |
-| `PRISMA_AntiCD20_RRMS.ipynb` | PRISMA flow diagram generator |
-| `screening_INCLUDE.csv` | Final included records from screening |
-| `screening_audit_trail.xlsx` | Complete audit trail - 238 records with decisions |
 
 ---
 
