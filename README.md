@@ -53,7 +53,7 @@ relapsing-remitting multiple sclerosis (RRMS).
 ---
 
 ## License
-MIT License — see LICENSE file for details.
+MIT License - see LICENSE file for details.
 
 ---
 
