@@ -30,13 +30,13 @@ relapsing-remitting multiple sclerosis (RRMS).
 
 ### Screening pipeline
 1. Open `MultiDB_Collection_Screening_AntiCD20_RRMS.ipynb` in Google Colaboratory
-2. Run all cells — this executes the search, deduplication, and screening
+2. Run all cells - this executes the search, deduplication, and screening
 3. Outputs: `screening_INCLUDE.csv` and `screening_audit_trail.xlsx`
 
 ### Network meta-analysis
 1. Open `NMA_AntiCD20_RRMS.R` in RStudio
 2. Install required packages: `netmeta`, `meta`, `ggplot2`, `dplyr`
-3. Run script — outputs forest plots, SUCRA rankings, and summary table
+3. Run script - outputs forest plots, SUCRA rankings, and summary table
 
 ---
 
